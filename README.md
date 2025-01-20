@@ -1,4 +1,4 @@
-gi### Funcionamiento
+### Funcionamiento
 
 1. **Cliente**:
     - Crea un socket UDP.
